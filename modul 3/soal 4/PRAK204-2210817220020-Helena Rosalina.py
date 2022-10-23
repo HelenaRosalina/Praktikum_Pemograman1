@@ -1,0 +1,9 @@
+r=float(input(''))
+t=float(input(''))
+phi=3.142857
+v=phi*r*r*t
+print("Volume =  ",round(v,2))
+l=2*phi*r*(r+t)
+print("Luas = ", round(l,2))
+k=2*phi*r
+print("Keliling = ", round(k,2))

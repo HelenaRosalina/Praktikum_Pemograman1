@@ -1,0 +1,7 @@
+a= input('Nama                 : ')
+b= input('NIM                  : ')
+c= input('Kelas Paralel        : ')
+e= input('Tempat/Tanggal Lahir : ')
+d= input('Alamat               : ')
+e= input('Hobby                : ')
+f= input('No. HP               : ')
